@@ -1,6 +1,6 @@
 # pibd
 
-*Arsip tugas **Perancangan dan Implementasi Basis Data**
+*Arsip tugas **Database Design and Implementation**
 
 **tubes perancangan database restoran dan latihan sql
 
